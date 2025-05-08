@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: NMFDFA
+Version: 0.1
+Summary: MultiDimensional Multifractal Detrended Fluctuation Analysis in Python
+Home-page: https://github.com/rsautter/NMFDFA
+Author: Rubens Andreas Sautter
+Author-email: rubens.sautter@gmail.com
+License: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Provides-Extra: matplotlib
+License-File: LICENSE

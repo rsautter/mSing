@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+NMFDFA/NMFDFA.py
+NMFDFA/__init__.py
+NMFDFA/singspect.py
+NMFDFA.egg-info/PKG-INFO
+NMFDFA.egg-info/SOURCES.txt
+NMFDFA.egg-info/dependency_links.txt
+NMFDFA.egg-info/requires.txt
+NMFDFA.egg-info/top_level.txt

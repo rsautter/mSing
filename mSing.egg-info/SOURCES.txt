@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+mSing/__init__.py
+mSing/mSing.py
+mSing/singspect.py
+mSing.egg-info/PKG-INFO
+mSing.egg-info/SOURCES.txt
+mSing.egg-info/dependency_links.txt
+mSing.egg-info/requires.txt
+mSing.egg-info/top_level.txt
